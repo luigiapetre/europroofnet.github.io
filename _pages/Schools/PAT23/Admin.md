@@ -14,13 +14,13 @@ breadcrumbs: true
 
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [] complete address: Logis Hôtel la Résidence, 5 Rue des Mousses, 88340 Le Val-d'Ajol, France
+    * [ ] complete address: Logis Hôtel la Résidence, 5 Rue des Mousses, 88340 Le Val-d'Ajol, France
     * [ ] starting date and time: 18 June 09:00 ?
     * [ ] ending date and time: 23 June 17:00 ?
 
 - [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [] daily allowance: ? euros
+    * [ ] daily allowance: ? euros
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
